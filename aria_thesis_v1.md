@@ -364,3 +364,44 @@ Wang, P. (2019). On defining artificial intelligence. *Journal of Artificial Gen
 Wang, P. (2006). *Rigid Flexibility: The Logic of Intelligence.* Springer Nature.
 
 (Mathematical references — Daniels & Rigollet, Cholesky-of-precision literature, WFR / unbalanced OT — to be added with verbatim citations on the v2 tether pass.)
+
+<!-- v2 work items — cumulative list, append per overlay -->
+<!--
+PAPER-OVERLAY-DRIVEN UPDATES FOR v2:
+
+From Bennett (2025) overlay [first overlay · 2026-05-25]:
+- §2.1 ✅ DONE in v1 — splat = atomic injection of encouragement (locked)
+- §6.4 ✅ DONE in v1 — encouragement-regularization as directional companion to w-maxing
+- §9 ✅ DONE in v1 — three missing foundational tools
+- §10 ✅ DONE in v1 — two gates beyond the field
+- §11.2 ✅ DONE in v1 — predicted generalization-rate table
+- §13.4-13.6 ✅ DONE in v1 — Bennett-bridge open questions
+- §14.2 ✅ DONE in v1 — publication plan
+
+From MemOS / Li et al. (2025) overlay [second overlay · 2026-05-25]:
+- §2.2 (new for v2) — Adopt MemCube vocabulary by reference; our v4_memory_card IS a MemCube-shaped object
+- §8.8 (new for v2) — splat vs MemCube comparison: MemCube = unit of memory storage; splat = unit of memory-promotion-with-direction
+- §9.2.1 (extend in v2) — Cite MemOS as external validation that Context is foundational
+- §9.2.2 (extend in v2) — Cite MemOS as production proof that field is building memory governance without the encouragement layer
+- §11.3 (new for v2) — LOCOMO benchmark predicted scores: ~75-85 overall with biggest gain on truth-preservation
+- references (extend in v2) — Li et al. 2025 + Mem0 + Zep + LangMem + OpenAI-Memory cluster
+
+From AEX / open-experiments (2025) overlay [third overlay · 2026-05-25]:
+- §8.9 (new for v2) — Marketplace layer above the substrate: splat audit (per-action) vs AEX settlement ledger (per-contract)
+- §10.4 (extend in v2) — Two-gate framing applied to multi-agent marketplaces; AEX as Exhibit B for missing gates
+- §11.4 (new for v2) — AEX-style marketplace participation as a measurable claim
+
+PAPER-OVERLAY QUEUE FOR FUTURE v2/v3 INPUTS:
+- Bowman/Benton (2022) — Measuring Progress on Scalable Oversight · pending arxiv:2211.03540 overlay
+- Recursive Self-Critiquing (2025) — arxiv:2502.04675 pending
+- Perrier-Bennett (2025) — Stop acting like LM agents · arxiv:2502.10420 pending
+- Bennett (2024) — Computational dualism / Is complexity an illusion · Springer AGI 2024 · pending
+- Wang (2019) — On defining AI · NARS formal foundation · pending
+- Goertzel (2023) — Hyperon tech report · pending
+
+See `/opt/aria/v4/fellows_2026/related_work/_queue.md` for the running queue.
+See `/opt/aria/v4/fellows_2026/publication_plan.md` for the conference + arXiv submission cadence.
+See `/opt/aria/v4/fellows_2026/three_missing_tools_architecture.md` for engineering backing §9.
+See `/opt/aria/v4/fellows_2026/two_gates_spec.md` for operational backing §10.
+-->
+
